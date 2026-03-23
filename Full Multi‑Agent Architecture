@@ -1,0 +1,29 @@
+# Multi‑Agent Architecture
+
+## 1. System Layer
+- Unified Super‑Agent Prompt  
+- HARD‑LOCK Rules  
+- SYPHER Protocol  
+
+## 2. Agents Layer
+- Master Document Agent  
+- Research Agent  
+- Drafting Agent  
+- Analysis Agent  
+- Dashboard Agent  
+
+## 3. Document Processing Layer
+- Cleaning Engine  
+- Indexing Engine  
+- Clustering Engine  
+- Timeline Engine  
+
+## 4. Diagnostics Layer
+- QA Checklist  
+- Diagnostic Script  
+- Dashboard Output Format  
+
+## 5. UI Layer
+- Agent.html  
+- styles.css  
+- app.js  
